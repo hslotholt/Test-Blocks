@@ -1,4 +1,9 @@
 namespace TestBlocks {
+    /**
+     * Plus to tal sammen
+     */
+    //% blockId=testblocksplus
+    //% block="plus"
     export function Plus(a: number, b:number) {
         return a + b;
     }
